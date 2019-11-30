@@ -1,2 +1,4 @@
+![sample output] (test.jpg)
 # imgpatch
-test to patch together images
+test to (batch) patch together images using python
+
